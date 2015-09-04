@@ -2,172 +2,179 @@
 <items version="2" >
 
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-ec75e50218c746def3b6742d610a630c5bb975ff.jar" />
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-3eae1f19613d62f155e8b5fbb031748ba1ff91ec.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-d01490cb29bbb864db7d2e948adbaf01352b891c.jar" />
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-023cd2fba86e2dc17b232d62cc6c67781972c890.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-95b71e7e94fd8a4b356300da12511578405424b6.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-f6c753ed4b9d0abb41f7cb409d08a9397f624588.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-5841aeb12f67f4448c6b38484c9434a10d44a6a1.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-dc275222dd2dc16afad4b50c5ee176d31eee8052.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-8bb79ac5111733a65a1e30983594b328dd2b574e.jar" />
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-a171ef8d0a807fadf670f870498909c51b098891.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-e0b9d43da134f8d4933eeaa16f56f3f27e126cce.jar" />
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-b197d51fb56a0e48be6abc789899728b7dc66acb.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-063ecf5ff8de82201c09c1540139cdfbf310ddce.jar" />
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-2ceda1e6072ec3eb5dfcfcec545825f36d50282f.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-76d2c40e11d41631621f4994efe97adf11e44607.jar" />
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-740ad5a178b0ea4c9a1d666487148014e23249be.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-87b6c0bc4c243c053da6339512c7a44309b30891.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-2f854e7231ca637b32ab359b43d314bf967cbdc9.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-7e98772cb9ee58431eda81244a79d8b6c4db2475.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-ff8029c4a9739e8ddfb8da569dcfde818d34df40.jar" />
     </item>
     <item
         jar="/home/olic/bin/adt-bundle-linux-x86_64-20130514/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-982f91e97972cd071ac299996b02c9863f2250fd.jar" />
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-982f91e97972cd071ac299996b02c9863f2250fd.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/libs/sdp.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-14c85c35b26a42d73202d32901833c741d8097cc.jar" />
+        sha1="af150911124c284ced6875fa21e1fb03cf7a61a6">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/sdp-0ecbcca0dfdc032bb1d5a6eb0fffb75c31fd9a60.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-16b03e806e184caf8cb0c74e11e74c2ab935524f.jar" />
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-7435e611ccfe27923f9d4814ccc00c7634b363b2.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-fd7732ada9853bcc8957b95ff2428941db24233d.jar" />
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f23cd450e764c4483e6fe82103d90a71ffdcd254.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-82bf63b412d804c2380b4f3b4cfe400bbc7b3d42.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-586a8842047c3d8461ac2b3424473fa679b82b44.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-b5ee2166aa53923ac4cc3237b36c648b23f989e4.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-29f3c557313a170649087d0f78c10033326f2ded.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/libs/javalib.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="09aa4753f2f9eb82dea6f02843936f1c236abcab">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/javalib-321d337a2aa10e5ced6a33fab3fab682a0b54fdf.jar" />
-    </item>
-    <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-b1b955f8340805984490493dd6a74366896acecf.jar" />
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-a53367196f3da905984a2892c3433e22810582cb.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/libs/sdp_sdk.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-7c8eb83423977419aeea61977e92ab0ad50fef46.jar" />
+        sha1="f04031009d9b0626c8717403534196d7207f7612">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/sdp_sdk-075cf5098c4eaa62e0bbcb40266e471c86da06b5.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-7aa0757455991e7d022d100a972387771be4c17b.jar" />
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-0f8d8f07dc3e013ea59ea085223c7abbe279097e.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-b9b4072fd7808aa4cea0d5632d7205b9052f25ed.jar" />
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-8944b9b5ddbad46e571fdc604fecba2643483c57.jar" />
     </item>
     <item
-        jar="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="/run/media/olic/workspace/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-ac44ea227f6307f93a6874339277d8ebc8f24d7e.jar" />
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-6c43d2da248dfdae460362d82a42e13a34498721.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-67f32e18868d13d25d33cd0b29e24fbcb991ab77.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-6325bc92322488e3a6c7c9bc748ca1acc090b0b3.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-bb7bfd293d11b38de29cad7678d578a1e33fa88b.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-bfa3f6f9fae883aedfac580614eeaad3007d8864.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-8bd376a6a41b45121eb138a9e606481d438e51f4.jar" />
+    </item>
+    <item
+        jar="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/run/media/olic/workspace/OLIC-SC_ANDROID_NILE_SDP_ZERO/DEV/Solution/Knox/SDP/SDK_User0/SdpSensitiveApp/app/build/intermediates/pre-dexed/debug/classes-c3a10d055992179a1d49d8ca1e02d2bc07433d78.jar" />
     </item>
 
 </items>
