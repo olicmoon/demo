@@ -99,7 +99,7 @@ public class LoginActivity extends ActionBarActivity implements View.OnClickList
             preferences.edit().putBoolean("isLoginRequired", false).commit();
             Utils.dumpEngineInfo(this, Constants.ALIAS);
             SdpDatabase sdpDatabase = new SdpDatabase(Constants.ALIAS);
-            CustomEngineDatabase customEngineDatabase = new CustomEngineDatabase(this);
+            CustomEngineDatabase customEngineDatabase = new CustomEngineDatabase(this, mEngineAlias);
             SQLiteDatabase db = customEngineDatabase.openDatabase();
 
             sdpDatabase.updateStateToDB(db, SdpEngineConstants.State.UNLOCKED);
@@ -167,7 +167,7 @@ public class LoginActivity extends ActionBarActivity implements View.OnClickList
         SharedPreferences preferences = getSharedPreferences("sdp_demo", Context.MODE_PRIVATE);
         boolean isDummyDataPresent = preferences.getBoolean("dummyDataPresent_custom", false);
         if (isDummyDataPresent == false) {
-            CustomEngineDatabase mCustomEngineDatabase = new CustomEngineDatabase(this);
+            CustomEngineDatabase mCustomEngineDatabase = new CustomEngineDatabase(this, mEngineAlias);
 
             Log.d(TAG, "inside generateDummyData creating CUSTOM db... ");
 

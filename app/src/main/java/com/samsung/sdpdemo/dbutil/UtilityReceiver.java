@@ -47,7 +47,7 @@ public class UtilityReceiver extends BroadcastReceiver {
         DefaultEngineDatabase sensitiveDatabase = new DefaultEngineDatabase(mContext);
         mDefaultDb = sensitiveDatabase.openDatabase();
 
-        CustomEngineDatabase sensitiveDatabase1 = new CustomEngineDatabase(mContext);
+        CustomEngineDatabase sensitiveDatabase1 = new CustomEngineDatabase(mContext, Constants.ALIAS);
         mCustomDb = sensitiveDatabase1.openDatabase();
 
         if (Constants.INTENT_DELETE_DB_RECORDS.equals(intent.getAction())) {

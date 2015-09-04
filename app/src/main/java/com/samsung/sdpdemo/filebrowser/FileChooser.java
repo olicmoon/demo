@@ -24,7 +24,6 @@ import android.widget.Toast;
 import com.samsung.sdpdemo.Constants;
 import com.samsung.sdpdemo.R;
 import com.sec.sdp.SdpFileSystem;
-import com.sec.sdp.exception.SdpAccessDeniedException;
 import com.sec.sdp.exception.SdpEngineNotExistsException;
 
 public class FileChooser extends ActionBarActivity implements ListView.OnItemClickListener {
