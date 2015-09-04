@@ -1,0 +1,142 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.samsung.sdpdemo.dbutil.UtilityActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/select_engine_tv"
+        android:text="Select Engine:"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:layout_below="@id/select_engine_tv"
+        android:id="@+id/radio_group"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/default_engine_radio_btn"
+            android:text="Default Engine" />
+
+        <RadioButton
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/custom_engine_radio_btn"
+            android:text="Custom Engine" />
+    </RadioGroup>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/db_operations_tv"
+        android:layout_below="@id/radio_group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="DB operations:" />
+
+    <LinearLayout
+        android:id="@+id/db_operations_insert"
+        android:layout_below="@id/db_operations_tv"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/insert_row_edt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="total rows" />
+
+        <Button
+            android:id="@+id/insert_row_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Insert" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/db_operations_update"
+        android:layout_below="@id/db_operations_insert"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/update_row_edt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="total rows" />
+
+        <EditText
+            android:id="@+id/update_row_newtxt_edt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="text" />
+
+        <Button
+            android:id="@+id/update_row_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Update" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/db_operations_delete"
+        android:layout_below="@id/db_operations_update"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/delete_row_edt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="total rows" />
+
+        <Button
+            android:id="@+id/delete_row_btn"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Delete" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/db_operations_show_db_records"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/db_operations_delete"
+        android:layout_height="wrap_content"
+        android:text="Display records" />
+
+    <Button
+        android:id="@+id/db_operations_show_intents"
+        android:layout_width="wrap_content"
+        android:layout_below="@id/db_operations_delete"
+        android:layout_toRightOf="@id/db_operations_show_db_records"
+        android:layout_height="wrap_content"
+        android:text="Display Intents" />
+
+</RelativeLayout>

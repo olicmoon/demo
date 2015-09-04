@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Intent Usage:</h2>
+
+<dl>
+  <dt><b>Inserting records:</b></dt>
+  <dd>adb shell am broadcast -a com.samsung.sdpDemo.INSERT_DB_RECORDS -ez isDefaultEngine true</dd>
+  <dt><b>Updating records:</b></dt>
+  <dd>adb shell am broadcast -a com.samsung.sdpDemo.UPDATE_DB_RECORDS --ez isDefaultEngine false</dd>
+  <dt><b>Deleting records:</b></dt>
+  <dd>adb shell am broadcast -a com.samsung.sdpDemo.DELETE_DB_RECORDS --ez isDefaultEngine true</dd>
+  <dt><b>Displaying records:</b></dt>
+  <dd>adb shell am broadcast -a com.samsung.sdpDemo.DISPLAY_DB_RECORDS --ez isDefaultEngine false</dd>
+</dl>
+
+</body>
+</html>
+

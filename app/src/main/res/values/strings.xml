@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SDP sample</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="splash_screen_text">Samsung: SDP</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_account_setup">Account Setup</string>
+    <string name="title_db_result">Sensitive Database</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_engine_chooser">Choose Engine</string>
+    <string name="title_activity_default_engine_dashboard">Default Engine</string>
+    <string name="title_activity_fileexplorer">FileexplorerActivity</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_license_validator">LicenseValidatorActivity</string>
+    <string name="title_activity_utility">Utility Activity</string>
+    <string name="title_activity_intent_usage">Intents</string>
+</resources>
